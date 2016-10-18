@@ -58,8 +58,8 @@
     "history": "^2.1.1",
     "lodash": "4.6.1",
     "qs": "ssetem/qs",
-    "rc-slider": "3.3.2",
-    "react": "^0.14.7",
+    "rc-slider": "^5.0.0",
+    "react": "^0.15.0",
     "react-addons-update": "^0.14.7"
   },
   "devDependencies": {
