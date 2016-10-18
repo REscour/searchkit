@@ -59,7 +59,7 @@
     "lodash": "4.6.1",
     "qs": "ssetem/qs",
     "rc-slider": "^5.0.0",
-    "react": "^15.3",
+    "react": "^15.2.1",
     "react-addons-update": "^0.14.7"
   },
   "devDependencies": {
